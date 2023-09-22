@@ -1,7 +1,7 @@
 # Hello-World
 ## Table of contents
-- [INTERESTS](#INTERESTS)
-- [DESCRIPTION](#Description)
+- [Interests](#Interests)
+- [Description](#Description)
 - [Involvement](#Involvement)
 - [LinkedIn](#LinkedIn)
 
